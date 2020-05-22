@@ -1,2 +1,2 @@
-# car-lot
+# Car Lot
 OOP car lot in Python
